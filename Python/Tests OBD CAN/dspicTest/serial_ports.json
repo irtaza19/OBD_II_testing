@@ -1,0 +1,22 @@
+{
+    "COM3": {
+        "portName": "stn",
+        "userName": "stn",
+        "serial": "9"
+    },
+    "COM14": {
+        "portName": "3k",
+        "userName": "ecu3k",
+        "serial": "00000000050C"
+    },
+    "COM8": {
+        "portName": "dsp",
+        "userName": "dspic_dbg",
+        "serial": "A9OJZTH9A"
+    },
+    "COM1": {
+        "portName": "dsp",
+        "userName": "dspic_at",
+        "serial": "A50285BIA"
+    }
+}

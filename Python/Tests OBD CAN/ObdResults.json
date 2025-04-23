@@ -1,0 +1,25 @@
+{
+    "Command Test": {
+        "ATE0": {
+            "name": "ATE0",
+            "result_original": "\u0000"
+        },
+        "010C": {
+            "name": "010C",
+            "result_original": "\u0000\u0000"
+        },
+        "010D": {
+            "name": "010D",
+            "result_original": "\u0000\u0000"
+        },
+        "0105": {
+            "name": "0105",
+            "result_original": "\u0000\u0000"
+        },
+        "0111": {
+            "name": "0111",
+            "result_original": "\u0000\u0000"
+        }
+    },
+    "Functional Test": {}
+}
